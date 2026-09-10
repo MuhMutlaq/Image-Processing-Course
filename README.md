@@ -2,11 +2,17 @@
 
 This repository documents the practical implementations, mathematical principles, and key takeaways learned during this Digital Image Processing lab session.
 
+## Student Information
+
+**Name:** Muhannad Almutlaq
+**ID:** 2240006060
+
 ---
 
 ## Table of Contents
 
 - [Digital Image Processing Lab: Sampling, Quantization \& Image Arithmetic / Set Operations](#digital-image-processing-lab-sampling-quantization--image-arithmetic--set-operations)
+  - [Student Information](#student-information)
   - [Table of Contents](#table-of-contents)
   - [Lab Overview](#lab-overview)
   - [Core Topics \& Key Learnings](#core-topics--key-learnings)
