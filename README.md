@@ -4,7 +4,7 @@ This repository documents the practical implementations, mathematical principles
 
 ## Student Information
 
-**Name:** Muhannad Almutlaq
+**Name:** Muhannad Almutlaq  
 **ID:** 2240006060
 
 ---
