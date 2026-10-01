@@ -23,5 +23,5 @@ Ensure the `Lab#4` folder contains the following structure before running the no
 │   ├── Parrot.png
 │   └── (Additional skimage.data images are downloaded automatically)
 ├── outputs/                   # Directory for saved threshold outputs
-└── Lab4_Report.pdf            # PDF version of the report for Blackboard submission
+└── Lab4.pdf            # PDF version of the report for Blackboard submission
 ```
