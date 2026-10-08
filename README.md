@@ -1,6 +1,6 @@
 # Lab 5: Spatial Filtering – Smoothing and Sharpening
 
-**Course:** ARTI 406 – Image Processing
+**Course:** ARTI 406 – Image Processing  
 **Institution:** Imam Abdulrahman Bin Faisal University, College of Computer Science and Information Technology
 
 ## Overview
