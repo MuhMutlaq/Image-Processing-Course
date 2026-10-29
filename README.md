@@ -32,13 +32,15 @@ This repository contains the implementation and results for **Lab 8: Edge Detect
 
 ## Repository Structure
 
-Lab8/    
-├── Lab_8_Edge_Detection.ipynb  # Edge Detection outputs    
-├── Solution.ipynb              # Tasks    
-├── Lab8.pdf                    # Exported PDF version of the notebook    
-├── kid1.jpg                    # Provided sample image    
-├── Coins.jpg                   # Provided sample image    
-├── bird.jpg                    # Provided sample image    
-├── Butterfly.jpg               # Provided sample image    
-├── Mercedes Automobile.png     # Custom input image used for Task 1 and Task 2    
-└── README.md                   # Lab documentation and key takeaways    
+```text
+Lab8/
+├── Lab_8_Edge_Detection.ipynb  # Edge Detection outputs
+├── Solution.ipynb              # Tasks
+├── Lab8.pdf                    # Exported PDF version of the notebook
+├── kid1.jpg                    # Provided sample image
+├── Coins.jpg                   # Provided sample image
+├── bird.jpg                    # Provided sample image
+├── Butterfly.jpg               # Provided sample image
+├── Mercedes Automobile.png     # Custom input image used for Task 1 and Task 2
+└── README.md                   # Lab documentation and key takeaways
+```
