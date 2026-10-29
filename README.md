@@ -32,7 +32,7 @@ This repository contains the implementation and results for **Lab 8: Edge Detect
 
 ## Repository Structure
 
-Lab8/
+Lab8/    
 ├── Lab_8_Edge_Detection.ipynb  # Edge Detection outputs    
 ├── Solution.ipynb              # Tasks    
 ├── Lab8.pdf                    # Exported PDF version of the notebook    
