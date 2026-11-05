@@ -34,7 +34,7 @@ This repository contains the implementation and results for **Lab 9: Morphologic
 
 ```text
 Lab9/
-├── Lab 9_Morphological_Operations.ipynb            # Jupyter Notebook implementing Lab 9 tasks
+├── Lab 9_Morphological_Operations.ipynb            # Jupyter Notebook implementing Lab 9 techniques of the tasks
 ├── Solution.ipynb                                  # Jupyter Notebook implementing Lab 9 tasks
 ├── Lab9.pdf                                        # Exported PDF version of the notebook
 ├── Balls.png                                       # Provided sample binary image used for experiments
